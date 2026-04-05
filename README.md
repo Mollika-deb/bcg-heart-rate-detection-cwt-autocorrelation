@@ -16,7 +16,6 @@
 - Jupyter Notebook  
 
 ---
----
 
 ## Methodology
 
